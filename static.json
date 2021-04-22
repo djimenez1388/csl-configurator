@@ -1,5 +1,5 @@
 {
-  "root": "public_html/",
+  "root": "dist/",
   "clean_urls": false,
   "routes": {
     "/*.html": "index.html"
