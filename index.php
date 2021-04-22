@@ -1,5 +1,3 @@
 <?php
-
-include_once("index.html");
-  
+echo '<div>Hello</div>'
 ?>
